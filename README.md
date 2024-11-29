@@ -29,7 +29,7 @@ pip install pygame numpy torch
 
 ## Running the Simulation
 ```bash
-python hive_IS.py
+python main.py
 ```
 
 ## Agent Behaviors
